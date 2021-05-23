@@ -1,0 +1,47 @@
+---------------------------------------------------------------------------------------------
+Data Structures is one of the most fundamental subject in Computer Science & in-depth understanding
+of this topic is very important especially when you are into development/programming domain where
+you build efficient software systems & applications.
+Definition – 
+In computer science, a data structure is a data organization, management and storage format
+that enables efficient access and modification.
+In Simple Words –
+Data Structure is a way in which data is stored on a computer.
+
+Why do we need Data Structures ?
+Data structure is a particular way of storing and organizing information in a computer
+so that it can be retrieved and used most productively.
+1. Each Data Structure allows data to be stored in specific manner.
+2. Data Structure allows efficient data search and retrieval.
+3. Specific Data structures are decided to work for specific problems.
+4. It allows to manage large amount of data such as large databases and indexing services 
+such as hash table.
+
+--------------------------------------------------------------------------------------------- 
+Abstract Data Types are entities that are definitions of data and operations but do not have
+ implementation details.
+ADTs are a theoretical concept in computer science, used in the design and analysis of algorithms,
+ data structures, and software systems, and do not correspond to specific features of computer languages.
+
+
+ALGORITHM-->
+Dictionary Definition : A process or set of rules to be followed in calculations or other 
+problem-solving operations, especially by a computer.
+Formal Definition : An algorithm is a finite set of instructions that are carried in a specific
+ order to perform specific task.
+Algorithms typically have the following characteristics –
+1. Inputs : 0 or more input values.
+2. Outputs : 1 or more than 1 output.
+3. Unambiguity : clear and simple instructions.
+4. Finiteness : Limited number of instructions.
+5. Effectiveness : Each instruction has an impact on the overall process.
+
+Here is an example of an Algorithm in Programming - 
+Write an algorithm to add two numbers entered by user. –
+Step 1: Start
+Step 2: Declare variables num1, num2 and sum. 
+Step 3: Read values num1 and num2. 
+Step 4: Add num1 and num2 and assign the result to sum.(sum←num1+num2 )
+Step 5: Display sum 
+Step 6: Stop
+
